@@ -1,0 +1,27 @@
+.
+├── 123.py
+├── 123qwe
+│   ├── README.md
+│   ├── gg.py
+│   └── lab1
+├── cat1
+│   ├── cat2
+│   │   └── cat5
+│   └── cat8
+├── cd
+├── date -> dir/date
+├── date.log
+├── dir
+│   └── current_date
+├── lab1.py
+├── link1 -> dir/date
+├── papka
+│   └── 123qwe
+│       ├── 123.py
+│       ├── README.md
+│       ├── gg.py
+│       ├── lab1
+│       └── lab2
+└── vovamaks
+
+11 directories, 14 files
